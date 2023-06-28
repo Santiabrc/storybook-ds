@@ -24,7 +24,7 @@ export const MyLabel = ({
     label = 'No label',
     size = 'normal',
     color = 'primary',
-    fontColor = 'saeras'
+    fontColor
 }: MyLabelProps) => {
     return (
         <span className={`label ${size} text-${color}`}
