@@ -14,6 +14,13 @@ export const SysIconActionsLightFaBackwardStepIcon = Template.bind({})
 
 SysIconActionsLightFaBackwardStepIcon.args ={
     color: 'blue',
-    size: 'l'
+    size: 'l',
+   
+    
+}
+SysIconActionsLightFaBackwardStepIcon.args ={
+    color: 'blue',
+    size: 'm',
+   
     
 }
